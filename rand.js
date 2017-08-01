@@ -1,4 +1,4 @@
-function rand(arr) {
+function Rand(arr) {
 	this.arr = arr,
 	this.random = function(ar) {
 		ar = this.arr;
