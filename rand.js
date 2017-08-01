@@ -7,6 +7,6 @@ function Rand(arr) {
 	}
 }
 
-var array = new rand([1, 2, 456, 878, 45, 56, 78, 89, 83, 5, 9, 999, 511, 664, 0])
+var array = new Rand([1, 2, 456, 878, 45, 56, 78, 89, 83, 5, 9, 999, 511, 664, 0])
 
 console.log(array.random())
